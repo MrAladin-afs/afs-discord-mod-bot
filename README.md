@@ -14,10 +14,9 @@ A moderation bot
 
 
 ##Setup 
-go to repl.it
-then import this project
 Click on 🔒 lock icon
- 
+go to repl.it
+then import this project 
 Then Put in Key : TOKEN
 value is : Your bot token
 
