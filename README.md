@@ -14,11 +14,16 @@ A moderation bot
 
 
 ##Setup 
+go to repl.it
+then import this project
+Click on 🔒 lock icon
+ 
+Then Put in Key : TOKEN
+value is : Your bot token
 
+then click on run
 
--create .env file
--Then Put in Token on .env
--ex-   BOT_TOKEN= ""
+if u geting error join support servers 
 
 
 then click on run
