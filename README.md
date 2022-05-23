@@ -13,7 +13,9 @@ A moderation bot
 - ✅ owner
 
 
-###Setup 
+##Setup 
+
+
 create .env file
 Then Put in Token on .env
 ex- BOT_TOKEN= ""
