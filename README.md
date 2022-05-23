@@ -15,6 +15,8 @@ A moderation bot
 
 ##Setup 
 
+
+
 go to repl.it
 then import this project
 Click on 🔒 lock icon
