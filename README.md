@@ -16,9 +16,9 @@ A moderation bot
 ##Setup 
 
 
-create .env file
-Then Put in Token on .env
-ex- BOT_TOKEN= ""
+-create .env file
+-Then Put in Token on .env
+-ex-   BOT_TOKEN= ""
 
 
 then click on run
