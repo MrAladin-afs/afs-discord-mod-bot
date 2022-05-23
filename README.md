@@ -12,17 +12,13 @@ A moderation bot
 - ✅ search
 - ✅ owner
 
+###Setup 
 
-##Setup 
+
 Click on 🔒 lock icon
-go to repl.it
-then import this project 
+Go to repl.it 
 Then Put in Key : TOKEN
 value is : Your bot token
-
-then click on run
-
-if u geting error join support servers 
 
 
 then click on run
