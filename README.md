@@ -1,9 +1,22 @@
-###Setup 
+A moderation bot
+- ✅ music 
+- ✅ moderation 
+- ✅ NSFW 
+- ✅ Info
+- ✅ giveway
+- ✅ fun
+- ✅ help
+- ✅ economy 
+- ✅ nsfw 
+- ✅ utility   
+- ✅ search
+- ✅ owner
 
-Click on 🔒 lock icon
+
+###Setup 
  
-Then Put in Key : TOKEN
-value is : Your bot token
+Then Put in Token on .env
+
 
 then click on run
 
@@ -11,4 +24,4 @@ if u geting error join support servers
 
 ### Support server's 
 
-discord.io/ALADINGAMINGZONE
+**[SUPPORT SERVER](https://dsc.gg/AVPEV9t695)**||
