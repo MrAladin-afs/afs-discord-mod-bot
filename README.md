@@ -36,4 +36,3 @@ if u geting error join support servers
 
 **[SUPPORT SERVER](https://dsc.gg/AVPEV9t695)**||
 
-<img src="https://media.discordapp.net/attachments/960524367643705395/968530140894199828/707f1f212bc2ddb7f7ba11a996e207321d2b8e03.jpeg?width=1440&height=126" alt="ALADIN FIVEM STORE" />
