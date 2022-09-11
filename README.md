@@ -34,5 +34,4 @@ if u geting error join support servers
 
 ### Support server's 
 
-**[SUPPORT SERVER](https://dsc.gg/AVPEV9t695)**||
 
